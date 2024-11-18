@@ -1,0 +1,15 @@
+.home-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.featured-categories .category-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.testimonials .testimonial-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+}
