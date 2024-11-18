@@ -3,7 +3,7 @@ This project was bootstrapped with Create React App.
 
 Getting Started
 Prerequisites
-Docker and Docker Compose installed on your system.
+Docker and Docker Compose are installed on your system.
 Node.js and npm for local development.
 AWS EC2 Instance for deployment.
 Installation
