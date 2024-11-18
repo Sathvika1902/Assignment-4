@@ -14,8 +14,8 @@ Clone the repository:
 
 
 
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/Sathvika1902/Assignment-4/edit/main/README.md
+cd Sathvika1902
 Install dependencies:
 
 
