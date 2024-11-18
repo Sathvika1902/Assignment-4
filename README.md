@@ -10,6 +10,10 @@ Installation
 Clone the repository:
 
 
+![image](https://github.com/user-attachments/assets/3fd2ade2-e437-4289-a7e8-1abde589706e)
+
+
+
 git clone <your-repo-url>
 cd <your-repo-name>
 Install dependencies:
